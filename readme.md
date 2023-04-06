@@ -11,7 +11,7 @@ This means that you want to select a farm with:
 2. High expected TVL
 3. Long farm life
 
-First time strategists must deploy contracts for farms on existing platforms on Beefy first. New platforms must undergo an audit by Beefy dev team before development can begin.
+First time strategists must deploy contracts for farms on existing platforms on Oak first. New platforms must undergo an audit by Oak dev team before development can begin.
 
 ### 2. Prepare the smart contracts
 If you decided to do a simple LP vault, or a single asset vault, the most likely thing is that there is a working template that you can use. Most farms work under a version of the [Masterchef](https://bscscan.com/address/0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57#code) contract (like Goose Finance), or [Reward Pool](https://arbiscan.io/address/0x48f4634c8383af01bf71aefbc125eb582eb3c74d#code) contract (like Oak Reward Pool).
